@@ -1,6 +1,6 @@
 {
   "author": "Tom de Grunt <tom@degrunt.nl>",
-  "name": "jsonschema",
+  "name": "cx-jsonschema",
   "version": "1.2.4",
   "license": "MIT",
   "dependencies": {},
