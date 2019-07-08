@@ -1,3 +1,8 @@
+# 同官方版本的区别
+
+  配置规则的时候可以增加errorMsg用于配置报错的文案，方便调取使用
+
+
 [![Build Status](https://secure.travis-ci.org/tdegrunt/jsonschema.svg)](http://travis-ci.org/tdegrunt/jsonschema)
 
 # jsonschema
